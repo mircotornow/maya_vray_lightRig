@@ -1,0 +1,1 @@
+python("import os; exec(open(os.path.expanduser('~/maya/2019/scripts/lightRigTool/MT_Window.py')))");
